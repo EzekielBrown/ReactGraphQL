@@ -62,7 +62,7 @@ function App() {
       <h1 className="text-primary">
         <i className="bi bi-diagram-2-fill"></i> Repos
       </h1>
-      <p>Hey there {userName}</p>
+      <p>Welcome {userName}!</p>
       <SearchBox
         totalCount={totalCount}
         pageCount={pageCount}
